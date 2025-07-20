@@ -4,7 +4,7 @@ I am a first year PhD student working on Systems for ML, in <a href="https://www
 
 ### Ongoing Research
 
-- Optimizing inference latency for Mixture of Expert models by leveraging runtime information and kernel optimization
+- Optimizing inference latency for Mixture of Expert models by leveraging runtime information and kernel optimization. [Paper](https://arxiv.org/abs/2411.08982)
 - Designing scheduling policies for speeding up LLM inference for lower latency request and while gaining higher throughput using speculative decoding.
 - Exploring the qubit mapping, routing and scheduling problem for trapped-ion based quantum computers, with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank"> TINKER group </a> under the supervision of <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a>. (Master's thesis)
 - Teaching neural networks how to count, under the guidance of [Dr. Sashank Varma](https://psychology.gatech.edu/sashank-varma). <a href="https://escholarship.org/uc/item/91z2p9h1" target="_blank"> Poster at CogSci'22! </a>. [Full paper accepted at CogSci'24](https://escholarship.org/content/qt5cz2v6d5/qt5cz2v6d5_noSplash_d89a45b032c07c6c0d0c5cfca8df2884.pdf)
