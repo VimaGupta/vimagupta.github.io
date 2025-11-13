@@ -3,7 +3,7 @@ I am a third-year PhD student working with the <a href="https://nexs.scs.gatech.
 
 ### Ongoing Research
 - Building systems to merge LLM models in the wild for memory reduction.
-- First system that optimizes Mixture of Expert inference through expert reduction while being workload-agnostic and maintaining accuracy through runtime systems and kernel optimization . [Paper](https://arxiv.org/abs/2411.08982)
+- First system that optimizes Mixture of Expert inference through expert reduction while being workload-agnostic and maintaining accuracy through runtime systems and kernel optimization. [Paper](https://arxiv.org/abs/2411.08982)
 
 ### What's new!
 - Passed Systems Qualifying Examination oral component! (Nov 2025)
