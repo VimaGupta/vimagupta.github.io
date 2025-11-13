@@ -1,5 +1,5 @@
 ## About Me
-I am a third-year PhD student working on Systems for AI at College of Computing in Georgia Tech, Atlanta. I am fortunate to be advised by <a href="https://www.anand-iyer.com/" target="_blank">Dr. Anand Iyer</a>. My research centers on building efficient systems for large language models, vision language models and multi-modal models. I am interested in understanding and thereby optimizing inference and post-training foundational models across diverse hardware platforms.
+I am a third-year PhD student working with the <a href="https://nexs.scs.gatech.edu/" target="_blank">NEXS group</a> at the College of Computing in Georgia Tech, Atlanta. I am fortunate to be advised by <a href="https://www.anand-iyer.com/" target="_blank">Dr. Anand Iyer</a>. My research centers on building efficient systems for large language models, vision language models and multi-modal models. I am interested in understanding and thereby optimizing inference and post-training foundational models across diverse hardware platforms.
 
 ### Ongoing Research
 - Building systems to merge LLM models in the wild for memory reduction.
