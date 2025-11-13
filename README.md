@@ -4,8 +4,6 @@ I am a third-year PhD student working with the <a href="https://nexs.scs.gatech.
 ### Ongoing Research
 - Building systems to merge LLM models in the wild for memory reduction.
 - First system that optimizes Mixture of Expert inference through expert reduction while being workload-agnostic and maintaining accuracy through runtime systems and kernel optimization . [Paper](https://arxiv.org/abs/2411.08982)
-- Designing efficient qubit mapping and scheduling for trapped-ion quantum computers with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank">TINKER group</a> under <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a>. (Master's thesis)
-- Teaching neural networks how to count with [Dr. Sashank Varma](https://psychology.gatech.edu/sashank-varma). <a href="https://escholarship.org/uc/item/91z2p9h1" target="_blank">CogSci'22 Poster</a> | [CogSci'24 Paper](https://escholarship.org/content/qt5cz2v6d5/qt5cz2v6d5_noSplash_d89a45b032c07c6c0d0c5cfca8df2884.pdf)
 
 ### What's new!
 - Passed Systems Qualifying Examination oral component! (Nov 2025)
@@ -15,7 +13,7 @@ I was a research intern at Microsoft Research at Systems Research group (2025) a
 
 I started my foray into computing systems as a physical design Engineer at <a href="https://www.arm.com/" target="_blank">Arm</a> where I had the opportunity to work on Arm V7-V9 cores (4nm, 5nm, 11nm). During my undergraduate years, I was interested in visible light communication which resulted in my first publication, <a href="docs/papers/Performance_Analysis_of_a_Visible_Light_Vehicle-To-Vehicle_Wireless_Communication_System.pdf" target="_blank">foggy channel modelling</a> for autonomous vehicles which received the Best Paper Award at IMICPW.
 
-During my masters, I co-founded PACE (Physcial Activity and Care for Everyone), a fitness [startup](https://create-x.gatech.edu/) with CREATE-X (Georgia Tech's startup incubator) for remote physical therapy using computer vision.
+During my masters, my curiousity in quantum computing systems led me to work on designing efficient qubit mapping and scheduling for trapped-ion quantum computers with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank">TINKER group</a> under <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a> (Master's thesis). I also co-founded PACE (Physcial Activity and Care for Everyone), a fitness [startup](https://create-x.gatech.edu/) with CREATE-X (Georgia Tech's startup incubator) for remote physical therapy using computer vision. I also dabbled in cognitive science research, where we tried to teach neural networks how to count in the pre-ChatGPT eta with [Dr. Sashank Varma](https://psychology.gatech.edu/sashank-varma). <a href="https://escholarship.org/uc/item/91z2p9h1" target="_blank">CogSci'22 Poster</a> | [CogSci'24 Paper](https://escholarship.org/content/qt5cz2v6d5/qt5cz2v6d5_noSplash_d89a45b032c07c6c0d0c5cfca8df2884.pdf)
 
 [Resume](docs/papers/Vima_Gupta_PhD_updated (5).pdf)
 
