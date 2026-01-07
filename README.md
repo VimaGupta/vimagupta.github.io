@@ -1,28 +1,72 @@
 ## About Me
-I am a third-year PhD student working with the <a href="https://nexs.scs.gatech.edu/" target="_blank">NEXS group</a> at the College of Computing in Georgia Tech, Atlanta. I am fortunate to be advised by <a href="https://www.anand-iyer.com/" target="_blank">Dr. Anand Iyer</a>. My research centers on building efficient systems for large language models, vision language models and multi-modal models. I am interested in understanding and thereby optimizing inference and post-training foundational models across diverse hardware platforms.
 
-### Ongoing Research
-- Building systems to merge LLM models in the wild for memory reduction.
-- First system that optimizes Mixture of Expert inference through expert reduction while being workload-agnostic and maintaining accuracy through runtime systems and kernel optimization. [Paper](https://arxiv.org/abs/2411.08982)
+I am a third-year CS Ph.D. student at Georgia Tech, advised by [Dr. Anand Iyer](https://www.anand-iyer.com/) in the [NEXS group](https://nexs.scs.gatech.edu/). My research focuses on **building efficient systems for large language model inference**—from CUDA kernel optimization to runtime scheduling to model compression.
 
-### What's new!
-- Passed Systems Qualifying Examination oral component! (Nov 2025)
+I work on production-scale challenges: multi-model serving, mixture-of-experts inference, and adaptive systems that respond to real workload patterns. I've interned at Microsoft Research (2024, 2025) and Cerebras Systems.
+
+I am honored to have received the **Adobe Research Women in Technology Scholarship** and the **EPFL EDIC Fellowship**.
+
+[CV](docs/Vima_Gupta_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en) · [GitHub](https://github.com/VimaGupta345) · [LinkedIn](https://www.linkedin.com/in/vima-gupta/)
+
+### News
+
+- **[2026]** Paper accepted at OSDI: VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination
+- **[Nov 2025]** Passed Systems Qualifying Examination
+- **[Summer 2025]** Research internship at Microsoft Research, Systems Research Group
+- **[Summer 2024]** Research internship at Microsoft Research, AI Frameworks Team
+
+### Research
+
+**Adaptive Model Merging for Multi-Model LLM Serving**  
+Building systems to merge fine-tuned LLMs at runtime, reducing memory footprint while preserving accuracy for agentic and multi-tenant workloads.
+
+**LYNX: Efficient Mixture-of-Experts Inference**  
+First system to optimize MoE inference through dynamic expert reduction—workload-agnostic, accuracy-preserving, with custom CUDA kernels. [[arXiv]](https://arxiv.org/abs/2411.08982) *(Under submission)*
+
+### Publications
+
+**VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination**  
+M. Hu, A. Gupta, J. Yuan, **V. Gupta**, T. Kim, X. Xu, J. Kulkarni, O. Dekel, V. Adve, C. Mendis  
+*OSDI 2026* (to appear)
+
+**LYNX: Efficient MoE Inference for Workload-Agnostic LLM Serving**  
+**V. Gupta**, J.H. Ju, K. Sinha, A. Gavrilovska, A. Iyer  
+*(Under submission)* [[arXiv]](https://arxiv.org/abs/2411.08982)
+
+**Understanding Infinity: Neural Network Models of Becoming a Cardinal Principle Knower**  
+**V. Gupta**, S. Varma — *CogSci 2024* [[Paper]](https://escholarship.org/content/qt5cz2v6d5/qt5cz2v6d5_noSplash_d89a45b032c07c6c0d0c5cfca8df2884.pdf)
+
+**Learning to Count: A Neural Network Model of the Successor Function**  
+**V. Gupta**, S. Varma — *CogSci 2022* [[Poster]](https://escholarship.org/uc/item/91z2p9h1)
+
+**Performance Analysis of a Visible Light V2V Wireless Communication System**  
+**V. Gupta**, R. Singhal — *IMICPW 2019* **(Best Paper Award)** [[Paper]](docs/papers/Performance_Analysis_of_a_Visible_Light_Vehicle-To-Vehicle_Wireless_Communication_System.pdf)
 
 ### Experience
-I was a research intern at Microsoft Research at Systems Research group (2025) and AI Frameworks team (2024), where I had the privelege of working on multi-instance LLM scheduling and kernel optimization for large-scale systems on real workloads. At [Cerebras Systems](https://www.cerebras.net/) (2022), I worked as an ML Compilers Intern to accelerated sparse attention in LLMs through MLIR transformation passes.
 
-I started my foray into computing systems as a physical design Engineer at <a href="https://www.arm.com/" target="_blank">Arm</a> where I had the opportunity to work on Arm V7-V9 cores (4nm, 5nm, 11nm). During my undergraduate years, I was interested in visible light communication which resulted in my first publication, <a href="docs/papers/Performance_Analysis_of_a_Visible_Light_Vehicle-To-Vehicle_Wireless_Communication_System.pdf" target="_blank">foggy channel modelling</a> for autonomous vehicles which received the Best Paper Award at IMICPW.
+**Microsoft Research** — Research Intern, Systems Research Group (Summer 2025)  
+Adaptive KV-aware scheduling for multi-instance, multi-region LLM serving.
 
-During my masters, my curiousity in quantum computing systems led me to work on designing efficient qubit mapping and scheduling for trapped-ion quantum computers with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank">TINKER group</a> under <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a> (Master's thesis). I also co-founded PACE (Physcial Activity and Care for Everyone), a fitness [startup](https://create-x.gatech.edu/) with CREATE-X (Georgia Tech's startup incubator) for remote physical therapy using computer vision. I also dabbled in cognitive science research, where we tried to teach neural networks how to count in the pre-ChatGPT era with [Dr. Sashank Varma](https://psychology.gatech.edu/sashank-varma). <a href="https://escholarship.org/uc/item/91z2p9h1" target="_blank">CogSci'22 Poster</a> [CogSci'24 Paper](https://escholarship.org/content/qt5cz2v6d5/qt5cz2v6d5_noSplash_d89a45b032c07c6c0d0c5cfca8df2884.pdf)
+**Microsoft Research** — Research Intern, AI Frameworks Team (Summer 2024)  
+Adaptive CUDA kernel dispatch for flash-attention; up to 30% latency reduction on H100/A100 clusters.
 
-Here is my [Resume](docs/papers/Vima_Gupta_PhD_updated (5).pdf) for your perusal!
+**Cerebras Systems** — ML Compilers Intern (Summer 2022)  
+MLIR-based graph transformations for sparse attention acceleration.
 
-### Interests
-I love dancing, and found myself going for Bachata classes. I like reading (or lately, collecting) books on mythology, behavioral psychology and medival history. I feel energized noticing the little details in pop-culture, behind-the-scene takes on TV series and films. I am an avid quizzing. I enjoy late brunches (happy to suggest cafes in the 2 mile GaTech perimeter) and indie music. I have recently gotten into coloring and excited to try my hands on pottery this semester!
+**Arm** — Physical Design Engineer (2018–2020)  
+Synthesis and PnR for Arm V7–V9 cores at 4nm, 5nm, 11nm nodes.
 
-### Connect
-<p float="left">
-<a href="https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en" target="_blank">Google Scholar</a> | 
-<a href="https://github.com/VimaGupta345" target="_blank">GitHub</a> | 
-<a href="https://www.linkedin.com/in/vima-gupta/" target="_blank">LinkedIn</a>
-</p>
+### Awards
+
+- **Adobe Research Women in Technology Scholarship** (2022)
+- **EPFL EDIC Fellowship** — one of 50 selected worldwide
+- **3rd Place, Klaus Poster Symposium** — Georgia Tech College of Computing
+- **Best Paper Award** — IMICPW 2019
+
+### Earlier Work
+
+During my masters, I worked on qubit mapping for trapped-ion quantum computers with [Dr. Tom Conte](https://www.ece.gatech.edu/faculty-staff-directory/tom-conte) (Master's thesis). I also co-founded [PACE](https://create-x.gatech.edu/) through CREATE-X, building pose-detection systems for remote physical therapy.
+
+### Beyond Research
+
+I'm an avid quizzer (placed 3rd nationally as a kid), take Bachata classes, and collect books on mythology and medieval history. I enjoy catching details in films and behind-the-scenes takes on TV shows. Always happy to recommend brunch spots near Georgia Tech.
