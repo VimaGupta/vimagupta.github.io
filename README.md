@@ -6,7 +6,7 @@ I work on production-scale challenges: multi-model serving, mixture-of-experts i
 
 I am honored to have received the **Adobe Research Women in Technology Scholarship** and the **EPFL EDIC Fellowship**.
 
-[CV](docs/Vima_Gupta_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en) · [GitHub](https://github.com/VimaGupta345) · [LinkedIn](https://www.linkedin.com/in/vima-gupta/)
+[CV](docs/papers/Vima_Gupta_PhD_0326.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en) · [GitHub](https://github.com/VimaGupta345) · [LinkedIn](https://www.linkedin.com/in/vima-gupta/)
 
 ### News
 
@@ -65,7 +65,7 @@ Synthesis and PnR for Arm V7–V9 cores at 4nm, 5nm, 11nm nodes.
 
 ### Earlier Work
 
-During my masters, I worked on qubit mapping for trapped-ion quantum computers with [Dr. Tom Conte](https://www.ece.gatech.edu/faculty-staff-directory/tom-conte) (Master's thesis). I also co-founded [PACE](https://create-x.gatech.edu/) through CREATE-X, building pose-detection systems for remote physical therapy.
+During my masters, I worked on qubit mapping for trapped-ion quantum computers with [Dr. Tom Conte](https://www.ece.gatech.edu/faculty-staff-directory/tom-conte) [Master's thesis](https://www.proquest.com/openview/5075ec72d90113414e1632a4625aecf4/1?pq-origsite=gscholar&cbl=18750&diss=y). I also co-founded [PACE](https://create-x.gatech.edu/) through CREATE-X, building pose-detection systems for remote physical therapy. To pursue my curiosity about how the human brain works, I worked with [Dr. Sashank Varma(https://psychology.gatech.edu/people/sashank-varma) on developing light-weight models that showcase how children learn to count.
 
 ### Beyond Research
 
