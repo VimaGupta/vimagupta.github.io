@@ -6,7 +6,7 @@ I work on production-scale challenges: multi-model serving, mixture-of-experts i
 
 I am honored to have received the **Adobe Research Women in Technology Scholarship** and the **EPFL EDIC Fellowship**.
 
-[CV](docs/papers/Vima_Gupta_PhD_0326.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en) · [GitHub](https://github.com/VimaGupta345) · [LinkedIn](https://www.linkedin.com/in/vima-gupta/)
+[CV](/docs/papers/Vima_Gupta_PhD_0326.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en) · [GitHub](https://github.com/VimaGupta345) · [LinkedIn](https://www.linkedin.com/in/vima-gupta/)
 
 ### News
 
