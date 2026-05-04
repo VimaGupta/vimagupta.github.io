@@ -10,10 +10,13 @@ I am honored to have received the **Adobe Research Women in Technology Scholarsh
 
 ### News
 
+- **[Summer 2026]** Research internship at Nokia Bell Labs
+- **[Spring 2026]** Our work got accepted at MLSYS-YPS 2026
 - **[2026]** Our paper from MSR internship (2024) got accepted at OSDI
 - **[Nov 2025]** Passed Systems Qualifying Examination
 - **[Summer 2025]** Research internship at Microsoft Research, Systems Research Group
 - **[Summer 2024]** Research internship at Microsoft Research, AI Frameworks Team
+- **[Spring 2024]** Recieved USENIX Travel Grant to attend OSDI'24 
 
 ### Research
 
