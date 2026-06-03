@@ -9,10 +9,10 @@ I am honored to have received the **Adobe Research Women in Technology Scholarsh
 [CV](/docs/papers/Vima_Gupta_PhD_0326.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en) · [GitHub](https://github.com/VimaGupta345) · [LinkedIn](https://www.linkedin.com/in/vima-gupta/)
 
 ### News
-
+- **[OSDI 2026]** Our poster got accepted at OSDI'26
 - **[Summer 2026]** Research internship at Nokia Bell Labs
 - **[Spring 2026]** Our work got accepted at MLSYS-YPS 2026
-- **[2026]** Our paper from MSR internship (2024) got accepted at OSDI
+- **[MLSYS-2026]** Our paper from MSR internship (2024) got accepted at OSDI
 - **[Nov 2025]** Passed Systems Qualifying Examination
 - **[Summer 2025]** Research internship at Microsoft Research, Systems Research Group
 - **[Summer 2024]** Research internship at Microsoft Research, AI Frameworks Team
