@@ -9,6 +9,7 @@ I am honored to have received the **Adobe Research Women in Technology Scholarsh
 [CV](/docs/papers/Vima_Gupta_PhD_0326.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en) · [GitHub](https://github.com/VimaGupta345) · [LinkedIn](https://www.linkedin.com/in/vima-gupta/)
 
 ### News
+- **[OSDI 2026]** Recieved USENIX Travel Grant to present poster at OSDI'26 
 - **[OSDI 2026]** Our poster and a paper from Microsoft Research Internship got accepted at OSDI'26
 - **[Summer 2026]** Research internship at Nokia Bell Labs
 - **[MLSYS-2026]** Our work on LYNX got accepted at MLSYS-YPS 2026
@@ -16,7 +17,7 @@ I am honored to have received the **Adobe Research Women in Technology Scholarsh
 - **[Nov 2025]** Passed Systems Qualifying Examination
 - **[Summer 2025]** Research internship at Microsoft Research, Systems Research Group
 - **[Summer 2024]** Research internship at Microsoft Research, AI Frameworks Team
-- **[Spring 2024]** Recieved USENIX Travel Grant to attend OSDI'24 
+- **[OSDI 2024]** Recieved USENIX Travel Grant to attend OSDI'24 
 
 ### Research
 
