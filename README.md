@@ -9,6 +9,7 @@ I am honored to have received the **Adobe Research Women in Technology Scholarsh
 [CV](/docs/papers/Vima_Gupta_PhD_0326.pdf) · [Google Scholar](https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en) · [GitHub](https://github.com/VimaGupta345) · [LinkedIn](https://www.linkedin.com/in/vima-gupta/)
 
 ### News
+- **[Microsoft Research Talk]** Gave an invited talk at Microsoft Research on LYNX's applicability to production workloads.   
 - **[OSDI 2026]** Recieved USENIX Travel Grant to present poster at OSDI'26 
 - **[OSDI 2026]** Our poster and a paper from Microsoft Research Internship got accepted at OSDI'26
 - **[Summer 2026]** Research internship at Nokia Bell Labs
