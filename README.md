@@ -10,7 +10,7 @@ I am honored to have received the **Adobe Research Women in Technology Scholarsh
 
 ### News
 - **[Fall 2026]** Received the CRNCH (Center for Research into Novel Compute Hierarchies) Fellowship for 2026-27 cycle.
-- **[SOSP 2026]** Received ACM SOSP Student Grant to attend and present at SOSP'26
+- **[SOSP 2026]** Received ACM SOSP Student Grant to present at SOSP'26
 - **[Microsoft Research Talk]** Gave an invited talk at Microsoft Research on LYNX's applicability to production workloads.   
 - **[OSDI 2026]** Recieved USENIX Travel Grant to present poster at OSDI'26 
 - **[OSDI 2026]** Our poster and a paper from Microsoft Research Internship got accepted at OSDI'26
