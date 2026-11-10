@@ -32,6 +32,10 @@ First system to optimize MoE inference through dynamic expert reduction—worklo
 
 ### Publications
 
+**Sandhi: Fine-Grained Merging for Memory Efficient Multi-Model Serving**
+V. Gupta, O. Duran, N. Meda, I. An, G. Ananthanarayanan, A. Iyer
+*SOSP 2026* (to appear) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3830418.3843911)
+
 **VTC: DNN Compilation with Virtual Tensors for Data Movement Elimination**  
 M. Hu, A. Gupta, J. Yuan, **V. Gupta**, T. Kim, X. Xu, J. Kulkarni, O. Dekel, V. Adve, C. Mendis  
 *OSDI 2026* (to appear)
