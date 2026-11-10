@@ -1,6 +1,6 @@
 ## About Me
 
-I am a third-year CS Ph.D. student at Georgia Tech, advised by [Dr. Anand Iyer](https://www.anand-iyer.com/) in the [NEXS group](https://nexs.scs.gatech.edu/). My research focuses on **building efficient systems for inference and post-training on large models**. My projects encompass runtime scheduling, workload-agnostic pattern analysis and CUDA kernel optimization.
+I am a fourth-year CS Ph.D. student at Georgia Tech, advised by [Dr. Anand Iyer](https://www.anand-iyer.com/) in the [NEXS group](https://nexs.scs.gatech.edu/). My research focuses on **building efficient systems for inference and post-training on large models**. My projects encompass runtime scheduling, workload-agnostic pattern analysis and CUDA kernel optimization.
 
 I work on production-scale challenges: multi-model serving, mixture-of-experts inference, and adaptive systems that respond to real workload patterns. I've interned at Microsoft Research (2024, 2025) and Cerebras Systems.
 
